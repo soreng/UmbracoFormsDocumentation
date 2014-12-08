@@ -10,9 +10,9 @@ Write your forms your way. You have full control over your form's HTML markup an
 ##[Rendering Forms scripts where you want](Rendering-Scripts/index.md)
 Control where you want Forms to render it's javascript
 
-##[Working with Contour data](Working-With-Data/index.md)
-See how you can fetch and display Contour record data from your razor macros
+##[Working with Record data](Working-With-Data/index.md)
+See how you can fetch and display record data from your razor macros
 
-##[Extending Contour](Extending/index.md)##
-Learn how you can extend Contour with your own custom providers
+##[Extending](Extending/index.md)##
+Learn how you can extend Umbraco Forms with your own custom providers
 
