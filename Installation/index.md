@@ -1,4 +1,5 @@
 #Installation and upgrading
+Extending Umbraco with the Forms section and keeping it up to date
 
 ##[Extending Umbraco with the Forms section](Installation.md)
 Extend Umbraco with the form builder section in a few steps  

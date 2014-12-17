@@ -1,5 +1,5 @@
 #Editor documentation
-Documents how to use the different parts of the Contour interface. 
+Documents how to use the different parts of the Umbraco Forms interface. 
 
 ##[Creating a form, the basics](Creating-a-form/index.md)
 Create new forms and add them to your Umbraco site in minutes.
