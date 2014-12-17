@@ -1,7 +1,7 @@
 #Creating a form
 This will show the basic steps of creating forms and adding them to your Umbraco site. 
 ##Navigate to the Forms section
-Managing forms happens in the Forms section of the Umbraco backoffice so first navigate to this section by selecting it (you'll need to have Forms installed and have access to this section in order to see it).
+Managing forms happens in the Forms section of the Umbraco backoffice so first navigate to this section by selecting it (you'll need to have Forms [installed](../../Installation/index.md) and have access to this section in order to see it).
 
 ![Forms Section](FormsSection.png)
 
@@ -24,7 +24,7 @@ The next screen you should see after selecting the empty or form template is the
 
 ![Forms designer](FormDesignerStart.png)
 
-There is already a page a fieldset and a container available the rest of the form has to be added using the UI(unless you started from a template then you already get some fields).
+There is already a page, a fieldset and a container available the rest of the form has to be added using the UI(unless you started from a template then you already get some fields).
 
 ###Setting the form name
 First we'll need to provide a name for our new form, you can do that in the top input.
