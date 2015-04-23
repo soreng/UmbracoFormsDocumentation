@@ -199,6 +199,10 @@ The view is seperated in 2 parts, 1 is the actual form and the other part is wha
 
 This view can be customized, if you do so it will be customized for all your forms.
 
+#### Add HtmlAttributes to the form
+
+	@using (Html.BeginUmbracoForm<Umbraco.Forms.Web.Controllers.UmbracoFormsController>("HandleForm", null, new Dictionary<string, object> { { "class", "test-form" } }, FormMethod.Post))
+
 ###Script.cshtml
 This view renders the javascript that will take care of the conditional logic, custimization won't be needed here...
 
